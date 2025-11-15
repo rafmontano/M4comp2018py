@@ -209,3 +209,9 @@ __marimo__/
 ####
 data/
 .idea/
+
+# Python cache
+src/__pycache__/
+*.pyc
+*.pyo
+*.pyd
